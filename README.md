@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @realDelta2
+- 👋 Hi, I’m realDelta
 - 👀 I’m interested in ... Rust, Pop!_Os, NixOS
 - 🌱 I’m currently learning ... Rust and Iced
 - 💞️ I’m looking to collaborate on ... Iced
